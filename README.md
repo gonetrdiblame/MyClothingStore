@@ -1,1 +1,1 @@
-# BeeShop
+# MyClothingStore
